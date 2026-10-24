@@ -37,3 +37,7 @@ CLAUDE.md
 .claude/
 docs/
 
+
+# gooze mutation testing
+.gooze-reports
+.gooze.log*
